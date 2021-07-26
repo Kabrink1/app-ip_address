@@ -46,5 +46,5 @@ function getIpv4MappedIpv6Address(ipv4) {
   }
   return ipv6Address;
 }
-// Add a command to assign function getIpv4MappedIpv6Address() to a new exports property.
+
 module.exports.getIpv4MappedIpv6Address = getIpv4MappedIpv6Address;
